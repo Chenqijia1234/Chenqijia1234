@@ -13,9 +13,7 @@
   - 算法
   - 解释器
 - 📫 How to reach me ...（联系方式）
-  1. MyEmail:root@74pwz0.onmicrosoft.com
-  2. QQNumber:86812582
-  3. TelephoneNumber:15166766972
+  1. root@74pwz0.onmicrosoft.com
 
 <!---
 Chenqijia1234/Chenqijia1234 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
